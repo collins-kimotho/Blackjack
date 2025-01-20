@@ -1,6 +1,7 @@
 # Blackjack Game
 
 ![Blackjack](/images/blackjack.jpg)
+
 Welcome to the Blackjack game! This is a simple implementation of the classic card game using HTML, CSS, and JavaScript.
 
 ## How to Play
